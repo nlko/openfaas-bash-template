@@ -1,0 +1,5 @@
+language: bash
+fprocess: ./handler.sh
+welcome_message: |
+  You have created a new function which bash and the Classic
+  OpenFaaS template.
